@@ -11,7 +11,7 @@
 如果你对`D2 2014`感兴趣，那么不妨：
 
 - 先`fork`本项目，
-- 然后先访问[淘宝UED官方博客](http://ued.taobao.org/blog/D2.ticket)登记入场信息，
+- 然后先[登记入场信息](http://ued.taobao.org/blog/D2.ticket)，
 - 接着参考`tickets`目录中的[示例文件](demo/ticket-demo.md)的格式，在`tickets`新建一个`“你的”-D2邀请函申请.md`(例如:"晓白-D2邀请函申请.md")为名称的文件，
 - 再仿照例子填写相关资料，
 - 最后发一条`pull request`(pull request标题内容为之前**登记入场信息后获得的标题内容**)。
@@ -149,3 +149,7 @@ D2将努力营造一种轻松自由的交流氛围，没有任何商业色彩，
 - [微博: http://weibo.com/d2forum](http://weibo.com/d2forum)
 - [微信: d2forum.org@gmail.com](assets/img/weixin-qrcode.jpeg)
 
+## 通知信件发送邮件(机器发送/无需回复)，如有必要，请添加联系人
+
+- 非Gmail用户使用懒懒交流会邮箱:(lanlan@alibaba-inc.com)
+- Gmail用户则使用Gmail发信邮箱:(d2.notice.robot@gmail.com)
