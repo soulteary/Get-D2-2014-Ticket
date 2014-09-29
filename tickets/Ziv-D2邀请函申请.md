@@ -6,7 +6,7 @@
 - 公司: 莲子统计 - 前端web工程师
 - 学校: 武汉软件工程职业学院
 - 博客: [http://www.imziv.com](http://www.imziv.com) (独立开发且开源的博客系统）
-- 博客园: [http://www.cnblogs.com/zivxiaowei/] http://www.cnblogs.com/zivxiaowei/
+- 博客园: http://www.cnblogs.com/zivxiaowei/
 - 微博: [@Ziv小威](http://weibo.com/zivxiaowei/) 
 - 其他: 曾经的java开发者
 
