@@ -11,6 +11,8 @@
 2014-至今 CTO        - 泡学网
 
 Blog: http://opifices.com/
+E-mail: shouxian@opifices.com
+微博： @匠者手线
 
 
 ## 想参加D2 2014的原因
