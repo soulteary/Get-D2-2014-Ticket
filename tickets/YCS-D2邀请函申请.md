@@ -4,7 +4,7 @@
 
 - 兴趣: 原生JS、 HTML5、CSS3、前端模块化、前端自动化
 - 公司: 阿里巴巴
-- github: [YCS]https://github.com/ILFront-End
+- github: [@YCS](https://github.com/ILFront-End)
 - 微博: [@YCS](http://weibo.com/u/3812919899)
 - 其他: 妹纸求通过~~~
 
