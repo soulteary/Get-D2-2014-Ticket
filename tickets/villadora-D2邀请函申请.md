@@ -4,7 +4,6 @@
 
 - 兴趣: 前后端分离，nodejs运维和分布式应用, 移动端混合开发, 
 - 公司: 大众点评
-- 学校: 复旦大学
 - 博客: [villadora](http://villadora.me)
 - Github: [@villadora](http://github.com/villadora)
 
