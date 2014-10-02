@@ -5,7 +5,7 @@
 - 兴趣: three.JS、移动开发
 - 公司: 武汉市网酷科技有限公司 - 前端开发工程师
 - GitHub: https://github.com/vividlz
-- 新浪微博： [@Ycrow](http://weibo.com/ycrow)
+- 新浪微博： lz寒月
 - 其他: 见见世面什么样，看看大牛怎么做，听听他人怎么说
 
 ## 想参加D2 2014的原因
