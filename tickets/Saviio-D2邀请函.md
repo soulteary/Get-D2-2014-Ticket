@@ -3,7 +3,7 @@
 ## 个人资料
 
 - 兴趣: 前端MV*，泛前端，ES6，同步方式的异步编程，前后端分离与数据传输
-- 公司: Pearson Technology - Deliver Team
+- 公司: Pearson Education Inc - Deliver Team
 - 博客: http://zora.ghost.io/
 - 微博: [@思維漫走](http://weibo.com/u/1644776253) (如果是微博控，可以注明使用微博方式通知)
 - 其他: 本来还以为今年D2不办了，总算等到了.....
