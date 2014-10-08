@@ -2,7 +2,7 @@
 
 ## 个人资料
 
-- 兴趣: 前端，Node.js, 篮球
+- 兴趣: 前端，Node.js, 篮球,吃饭
 - 公司: 小米科技有限公司  
 - 博客: http://www.zgenk.com  
 - 微博: [@大奔_爱吃才会赢](http://www.weibo.com/daben1990/home?wvr=5)
