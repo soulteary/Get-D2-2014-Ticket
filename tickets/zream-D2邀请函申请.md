@@ -3,7 +3,6 @@
 ## 个人资料
 
 - 兴趣: Node.js、AngularJS、前端组件化、前后端分离...
-- 公司: 自由职业
 - 博客: [前端里](http://www.yyyweb.com)
 - 微博: [@小溪](http://weibo.com/iamlhb/)
 
