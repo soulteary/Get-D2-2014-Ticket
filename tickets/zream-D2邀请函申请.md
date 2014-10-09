@@ -4,8 +4,8 @@
 
 - 兴趣: Node.js、AngularJS、前端组件化、前后端分离...
 - 公司: 自由职业
-- 博客: [苏洋博客](http://www.yyyweb.com)
-- 微博: [@soulteary](http://weibo.com/iamlhb/)
+- 博客: [前端里](http://www.yyyweb.com)
+- 微博: [@小溪](http://weibo.com/iamlhb/)
 
 ## 想参加D2 2014的原因
 
