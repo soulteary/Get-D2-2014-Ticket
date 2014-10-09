@@ -5,6 +5,7 @@
 - 兴趣: html5,css3,extjs
 - 公司: os-easy.com
 - 博客: [M.Hu](http://www.cnblogs.com/MrWho/)
+- 其他: [git@git.oschina.net](http://git.oschina.net/gitlab)
 
 ## 想参加D2 2014的原因
 
