@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Token记录验证脚本存档</title>
+    <script src="./only-github-token.js?v=1"></script>
+    <script src="./d2_ticket_2014.js?v=2"></script>
+</head>
+<body>
+
+<h2>Github Token数据</h2>
+
+<p>截至 2014-10-10 17:59:17 Github上已经通过的有效PR为273条。</p>
+
+<p>https://github.com/soulteary/Get-D2-2014-Ticket/pulls?page=12&q=is%3Apr+is%3Amerged+sort%3Acreated-asc</p>
+
+<h2>D2 Ticket 后台数据</h2>
+
+<p>截至 2014-10-10 18:04:51 D2后台通过审核的有效记录为292条。</p>
+
+
+<p>补发邮件列表</p>
+<ul>
+    <li>
+        <del>3fe688fbab1432b84dfe9dfa85b6b7c4</del>
+        <em>已补发，2014-10-10 19:18:00</em></li>
+    <li>
+        <del>d09f3d9e643069e61c66e0f77020e446</del>
+        <em>测试token，无需补发</em></li>
+</ul>
+
+<script type="text/javascript">
+    (function (D2, GIT, TEST_TOKEN) {
+        for (var itemD2 in D2) {
+            for (var itemGit in GIT) {
+                if (itemD2 === itemGit) {
+                    delete D2[itemD2];
+                    delete GIT[itemD2];
+                }
+            }
+        }
+
+        for (var item in GIT) {
+            if (GIT[item] && item !== TEST_TOKEN) {
+                console.info("由于服务器原因，此token尚未发送确认信:", item);
+            }
+        }
+
+    })(dataD2, dataGit, 'd09f3d9e643069e61c66e0f77020e446');
+</script>
+
+<hr/>
+
+
+</body>
+</html>
