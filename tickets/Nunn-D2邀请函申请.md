@@ -3,7 +3,7 @@
 ## 个人资料
 
 - 兴趣: NodeJS、WebGL、移动应用、前后分离、Chrome app
-- 公司: 杭州快云科技有限公司 - 前端开发工程师
+- 公司: 浦东软件园汇智软件 - 前端开发工程师
 - GitHub: [@nunnly](https://github.com/nunnly)
 - 新浪微博： [@nunnly](http://weibo.com/nunnly)
 - 博客园： nunn.cnblogs.com
