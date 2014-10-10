@@ -7,6 +7,7 @@
 - GitHub: [@nunnly](https://github.com/nunnly)
 - 新浪微博： [@nunnly](http://weibo.com/nunnly)
 - 博客园： nunn.cnblogs.com
+- Email：whktk@qq.com
 
 ## 想参加D2 2014的原因
 
