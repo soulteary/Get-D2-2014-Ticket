@@ -4,7 +4,7 @@
 
   * 兴趣：javascript/HTML5/CSS3/nodejs，用户体验，交互设计,移动端开发
   * 公司：荔橙-前端开发
-  * GitHub：[FEsy]()
+  * GitHub：[FEsy](https://github.com/)
   * 新浪微博：[FE-sy](http://weibo.com/hackersy)
   * 博客：[FE-sy](http://fesy.sinaapp.com/)
 
