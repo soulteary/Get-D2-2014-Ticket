@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>D2 邀请函样式</title>
+</head>
+<body>
+
+<noscript>
+    你的浏览器似乎不支持脚本，或许应该换个支持脚本的浏览器，:D
+</noscript>
+
+<style>
+    @font-face {
+        font-family: 'Arvo';
+        font-style: normal;
+        font-weight: 400;
+        src: local('Arvo'), url(../assets/fonts/arvo.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+    }
+
+    body {
+        background: url(../assets/img/broken_noise.png);
+        font-family: "arvo";
+        -webkit-user-select: none;
+    }
+
+    .ticket-container {
+        margin: 80px auto 0;
+        background: #FFF9EE url(../assets/img/lightpaperfibers.png);
+        color: #333;
+        text-transform: uppercase;
+        padding: 8px;
+        width: 300px;
+        font-weight: bold;
+        text-shadow: 0px 1px 0px #fff;
+        font-size: 11px;
+        border-left: 1px dashed rgba(51, 51, 51, 0.5);
+        -webkit-filter: drop-shadow(0 5px 18px #000);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .ticket-wrap {
+        border: 2px dashed rgba(51, 51, 51, 0.5);
+        min-height: 100px;
+        padding: 8px;
+    }
+
+    .ticket-wrap h1 {
+        padding: 5px 0;
+        margin: 0;
+        font-size: 18px;
+        border-bottom: 1px solid rgba(51, 51, 51, 0.3);
+        text-align: center;
+    }
+
+    .ticket-info {
+        width: 100%;
+        margin-top: 5px;
+    }
+
+    .ticket-info .ticket-item {
+        float: left;
+        padding: 5px;
+        width: 83px;
+        text-align: center;
+    }
+
+    .ticket-info .ticket-item h2 {
+        margin: 8px;
+
+    }
+
+    .ticket-info .ticket-wide-item {
+        float: left;
+        padding: 5px;
+        width: 176px;
+        text-align: center;
+    }
+
+    .ticket-info .ticket-wide-item h2 {
+        margin: 8px;
+    }
+
+    .ticket-tel {
+        border-top: 1px solid rgba(51, 51, 51, 0.3);
+    }
+
+    .clearfix:after {
+        content: ".";
+        display: block;
+        height: 0;
+        clear: both;
+        visibility: hidden;
+    }
+
+    .ticket-tel h2 {
+        padding-left: 115px;
+        margin: 10px 0;
+        font-size: 15px;
+    }
+
+    .ticket-tel p {
+        float: right;
+        margin: 0 15px 0 0;
+    }
+
+    .check-in {
+        color: #fff;
+        text-align: center;
+        font-size: 25px;
+        text-decoration: none;
+        display: block;
+        width: 200px;
+        margin: 50px auto 0;
+        padding: 5px;
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    .ticket-type {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0.1;
+    }
+
+    .ticket-ready {
+        color: #FFF;
+        background: #A0D6F7;
+    }
+
+    .ticket-near {
+        color: #FFF;
+        background: #EA2D43;
+    }
+</style>
+
+<div class="ticket-container">
+    <div class='ticket-wrap'>
+        <h1>D2 2014 Ticket</h1>
+
+        <div class='ticket-info clearfix'>
+            <div class='ticket-item'>Ticket No<h2>#1</h2></div>
+            <div class='ticket-item'>Name<h2>晓白</h2></div>
+            <div class='ticket-item'>Type<h2>论坛邀请</h2></div>
+            <div class='ticket-item'>SEX<h2>M</h2></div>
+            <div class='ticket-wide-item'>JOB<h2>前端开发工程师</h2></div>
+
+        </div>
+        <div class='ticket-tel clearfix'>
+            <h2>TEL:<p>1701*****78</p></h2>
+        </div>
+        <a class="check-in ticket-ready" href="javascript:void(0)">WELCOME</a>
+        <embed class="ticket-type" src="../assets/fonts/day.svg" width="100%" height="80%" type="image/svg+xml"
+               pluginspage="http://www.adobe.com/svg/viewer/install/"/>
+    </div>
+</div>
+
+<div class="ticket-container">
+    <div class='ticket-wrap'>
+        <h1>D2 2014 Ticket</h1>
+
+        <div class='ticket-info clearfix'>
+            <div class='ticket-item'>Ticket No<h2>#1</h2></div>
+            <div class='ticket-item'>Name<h2>喵了个咪</h2></div>
+            <div class='ticket-item'>Type<h2>酒会邀请</h2></div>
+            <div class='ticket-item'>SEX<h2>F</h2></div>
+            <div class='ticket-wide-item'>JOB<h2>设计师</h2></div>
+        </div>
+        <div class='ticket-tel clearfix'>
+            <h2>TEL:<p>1701*****78</p></h2>
+        </div>
+        <a class="check-in ticket-near" href="javascript:void(0)">WELCOME</a>
+        <embed class="ticket-type" src="../assets/fonts/drink.svg" width="100%" height="80%"
+               type="image/svg+xml" pluginspage="http://www.adobe.com/svg/viewer/install/"/>
+    </div>
+</div>
+
+<script type="text/javascript">
+    (function (WHO) {
+        var hasBegin = false;
+
+        console && console.log(['Hi!', 'I\'m', WHO, '.'].join(" "));
+
+        function update() {
+
+            var beginTime = new Date("2014-10-25 10:00") - 0,
+                    curTime = new Date() - 0,
+                    appendFix = "LEFT",
+                    unit = "DAY",
+                    timeLeft = parseInt((beginTime - curTime) / 1000, 10),
+                    showTime = timeLeft;
+
+            if (timeLeft < 60) {
+                if (timeLeft < 0) {
+                    hasBegin = true;
+                } else {
+                    unit = "SECS";
+                }
+            } else {
+                if (timeLeft < 3600) {
+                    unit = "MINS";
+                    showTime = parseInt(timeLeft / 60, 10);
+                } else {
+                    if (timeLeft < 86400) {
+                        unit = "HOURS";
+                        showTime = parseInt(timeLeft / 3600, 10);
+                    } else {
+                        unit = "DAYS";
+                        showTime = parseInt(timeLeft / 86400, 10);
+                    }
+                }
+            }
+            return hasBegin ? "WELCOME" : [showTime, unit, appendFix].join(" ");
+        }
+
+        document.getElementsByClassName('ticket-ready')[0].innerText = "CHECK IN";
+        !hasBegin && setTimeout(function () {
+            document.getElementsByClassName('ticket-near')[0].innerText = update();
+            !hasBegin && setTimeout(arguments.callee, 500);
+        }, 500);
+    })('soulteary');
+</script>
+
+</body>
+</html>
