@@ -15,7 +15,7 @@
 
 ### 地图
 
-![image](assets/img/traffic-plan-a.png)
+![image](../assets/img/traffic-plan-a.png)
 
 注: 蒋村之前是大概路线，没有找到靠谱的地图导航，不需要关注细节。
 
@@ -27,7 +27,7 @@
 
 ### 地图
 
-![image](assets/img/traffic-plan-b.png)
+![image](../assets/img/traffic-plan-b.png)
 
 ## 如果你出现在“城站火车站”
 
@@ -37,7 +37,7 @@
 
 ### 地图
 
-![image](assets/img/traffic-plan-c.png)
+![image](../assets/img/traffic-plan-c.png)
 
 ## 特别注意
 
