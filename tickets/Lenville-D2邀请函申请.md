@@ -4,8 +4,8 @@
 
 - 兴趣: 自动化测试、敏捷开发、数据可视化、前端组件化、前后端分离
 - 公司: 腾讯科技（北京）有限公司 - 前端开发工程师
-- GitHub: [@WihteCrow](https://github.com/lenville)
-- 新浪微博： [@Ycrow](http://weibo.com/1313001627/)
+- GitHub: [@Lenville](https://github.com/lenville)
+- 新浪微博： [@Lenville](http://weibo.com/1313001627/)
 - 其他: 线上积累的经验不多，还望海涵，近期打算学习做 HTML5 粒子系统
 
 ## 想参加D2 2014的原因
