@@ -3,6 +3,7 @@
 ## 个人资料
 
 - 兴趣:   Javascript, Node, Rails
+- 学校:   中南民族大学
 - GitHub: [@mygoare](https://github.com/mygoare)
 - 博客:   [mygoare.com](http://mygoare.com)
 
