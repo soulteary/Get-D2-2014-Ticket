@@ -4,8 +4,8 @@
 
 - 兴趣: WebGL，SPA，Hybird，CSS3动画，可视化音乐，Dota2
 - 公司: Teambition
-- 职位：前端工程师
-- 年龄：20岁
+- 职位: 前端工程师
+- 年龄: 20岁
 - 博客: [Sune Blog](http://sune.yileit.com)
 - 微博: [@SuneXiong](http://weibo.com/Sunexiong) (一般都是潜水)
 - 邮箱: sune@yileit.com
