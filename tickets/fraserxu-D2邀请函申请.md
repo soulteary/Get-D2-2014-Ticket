@@ -9,6 +9,8 @@
 - 微博: [@fraserxv](http://weibo.com/fraserxv)
 - Github: [@fraserxu](https://github.com/fraserxu)
 - Twitter: [@fraserxu](https://twitter.com/fraserxu)
+- 上海JavaScript Meetup组织者: [Shanghai JavaScript Meetup Organizer](http://www.meetup.com/Shanghai-JavaScript-Meetup/events/201809992/)
+- React中国成员: [React-China](https://github.com/react-china)
 
 ## 想参加D2 2014的原因
 
