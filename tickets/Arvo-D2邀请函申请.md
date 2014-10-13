@@ -4,7 +4,7 @@
 - 级别: 菜鸟
 - 兴趣: js小游戏
 - 公司: 大众点评推广前端
-- 学校: 商户工程技术大学
+- 学校: 上海工程技术大学
 - 仓库: [https://github.com/ArvoGuo](https://github.com/ArvoGuo)
 - 博客: [ArvoBlog](http://blog.csdn.net/a250185087)
 
