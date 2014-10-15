@@ -4,6 +4,7 @@
 
 - 兴趣: 前端工程化，多终端下的前端架构实践
 - 公司: 北京零零无限科技有限公司
+- 邮箱: woooha@gmail.com
 - 博客: [woooha博客](http://www.yang-fan.com) 
 - 微博: [@woooha杨帆](http://weibo.com/woooha)
 
