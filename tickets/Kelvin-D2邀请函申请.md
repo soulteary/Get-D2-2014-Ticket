@@ -3,7 +3,7 @@
 ## 个人资料
 
 - 兴趣: 前端模块化开发(seajs)，移动开发, Nodejs
-- 公司: PPPTV 增值事业部 前端开发工程师
+- 公司: PPTV 增值事业部 前端开发工程师
 - 博客: [司马缸](http://www.cnblogs.com/mr189/)
 - Git : [189](http://www.github.com/189/)
 - 其他: 专注于前端开发，也享受着前端开发
