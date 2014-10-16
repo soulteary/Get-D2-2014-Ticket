@@ -7,7 +7,10 @@
 - 学校: 巢湖学院
 - 博客: http://bee1314.iteye.com
 - github: https://github.com/hufeng
+- 邮箱: loveruby1988@qq.com
 
 ## 想参加D2 2014的原因
+
 1.学习最前沿的前端技术
+
 2.近距离膜拜心中的男神
