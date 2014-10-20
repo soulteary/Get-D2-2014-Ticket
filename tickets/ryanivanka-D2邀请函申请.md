@@ -5,7 +5,8 @@
 - 兴趣: 数据可视化、nodeJS、前端组件化、前后端分离
 - 公司: 微策略软件
 - 博客: [Ryanivanka博客](http://ryanivanka.info)
-- 5年Web开发
+- 邮箱: sarah.hhyy@gmail.com
+- 其他: 5年Web开发
 
 ## 想参加D2 2014的原因
 
