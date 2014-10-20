@@ -3,4 +3,4 @@
 学校: 杭州电子科技大学
 博客: http://www.cnblogs.com/XGHeaven/
 微博: MyWB_Xty
-其他: 很有兴趣
+其他: 很有兴趣。
